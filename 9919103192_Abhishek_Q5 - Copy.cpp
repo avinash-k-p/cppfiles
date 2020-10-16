@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+//gyfyufuyfyfhfyufyvjhygygiuf
+//gggjb
 class subject {
 protected:
     int subID, credit{}, semester, attndCutoff{};
