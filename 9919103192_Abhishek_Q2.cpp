@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//nice code
 using namespace std;
 
 class subject {
