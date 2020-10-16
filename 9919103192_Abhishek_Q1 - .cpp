@@ -1,5 +1,12 @@
 #include <bits/stdc++.h>
-
+using namespace std;
+#define ll long long int 
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL)
+#define br cout<<endl;
+#define pb push_back
+#define left(x) x.begin(), x.end()
+#define right(x) x.begin(), x.end(), greater<ll>()
+#define mp make_pair
 using namespace std;
 
 int evaluate(char x) {
