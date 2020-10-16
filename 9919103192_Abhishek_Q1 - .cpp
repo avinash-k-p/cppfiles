@@ -49,3 +49,4 @@ int main() {
     string s = "w1*f1*1/2+w2*f2*1/2+w3*f3";
     convert(s);
 }
+//good
